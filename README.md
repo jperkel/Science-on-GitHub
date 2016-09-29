@@ -37,7 +37,7 @@ compiled this list of projects. Feel free to suggest others via pull request.
 8. Nextflu.org
 <p>Description: Real-time tracking of influenza virus evolution
 <p>GitHub: https://github.com/blab/nextflu
-<p>URL: http://nextflu.org/h3n2/3y/
+<p>URL: http://nextflu.org/
 
 9. Nextstrain.org
 <p>Description: Real-time tracking of Zika virus evolution
