@@ -8,13 +8,13 @@ Feel free to suggest others via the issues tab at the top of the page. Or, to su
 To get a sense of how GitHub tracks changes, click the file "README.md", and click the History button in the toolbar. Each line represents a single change to that file. If you click the specific commit identifier at the right of a given line (eg: <a href=https://github.com/jperkel/Science-on-GitHub/commit/7135e431aabb18b905ea2d5e8b4b5385a9006df5>7135e43</a>), you can view exactly what that change entailed. Lines highlighted in green are additions, while lines in red have been deleted.
 
 For more information on Git/GitHub, check out these useful resources:
-Blischak, JD, Davenport, ER, and Wilson, G, "A quick introduction to version control with Git and GitHub," PLoS Computational Biology, 2016. DOI:<a href=http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668>journal.pcbi.1004668</a>.
+[1] Blischak, JD, Davenport, ER, and Wilson, G, "A quick introduction to version control with Git and GitHub," PLoS Computational Biology, 2016. DOI:<a href=http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668>journal.pcbi.1004668</a>.
 
-Perez-Riverol, Y, et al., "Ten simple rules for taking advantage of Git and GitHub," PLoS Computational Biology, 2016. DOI:<a href=http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947>10.1371/journal.pcbi.1004947</a>
+[2] Perez-Riverol, Y, et al., "Ten simple rules for taking advantage of Git and GitHub," PLoS Computational Biology, 2016. DOI:<a href=http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947>10.1371/journal.pcbi.1004947</a>
 
-GitHub Guides: https://guides.github.com/
+[3] GitHub Guides: https://guides.github.com/
 
-<a href=https://try.github.io/levels/1/challenges/1>try.github.io</a>
+[4] <a href=https://try.github.io/levels/1/challenges/1>try.github.io</a>
 
-Atlassian's Git tutorials: https://www.atlassian.com/git/tutorials/
+[5] Atlassian's Git tutorials: https://www.atlassian.com/git/tutorials/
 
