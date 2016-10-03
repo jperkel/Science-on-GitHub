@@ -10,4 +10,11 @@ To get a sense of how GitHub tracks changes, click the file "README.md", and cli
 For more information on Git/GitHub, check out these useful resources:
 Blischak, JD, Davenport, ER, and Wilson, G, "A quick introduction to version control with Git and GitHub," PLoS Computational Biology, 2016. DOI:<a href=http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668>journal.pcbi.1004668</a>.
 
+Perez-Riverol, Y, et al., "Ten simple rules for taking advantage of Git and GitHub," PLoS Computational Biology, 2016. DOI:<a href=http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947>10.1371/journal.pcbi.1004947</a>
+
 GitHub Guides: https://guides.github.com/
+
+<a href=https://try.github.io/levels/1/challenges/1>try.github.io</a>
+
+Atlassian's Git tutorials: https://www.atlassian.com/git/tutorials/
+
