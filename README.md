@@ -5,4 +5,9 @@ compiled this list of projects as a table of comma-separated values (a CSV file)
 
 Feel free to suggest others via the issues tab at the top of the page. Or, to suggest changes directly in GitHub, click file, then click the pencil icon in the toolbar at the upper right. When you're done, click "commit changes" at the bottom of the page.
 
-To get a sense of how GitHub tracks changes, click the file "README.md", and click the History button in the toolbar. Each line represents a single change to that file. If you click the specific commit identifier at the right of a given line (eg: 7135e43: https://github.com/jperkel/Science-on-GitHub/commit/7135e431aabb18b905ea2d5e8b4b5385a9006df5), you can view exactly what that change entailed. Lines highlighted in green are additions, while lines in red have been deleted.
+To get a sense of how GitHub tracks changes, click the file "README.md", and click the History button in the toolbar. Each line represents a single change to that file. If you click the specific commit identifier at the right of a given line (eg: <a href=https://github.com/jperkel/Science-on-GitHub/commit/7135e431aabb18b905ea2d5e8b4b5385a9006df5>7135e43</a>), you can view exactly what that change entailed. Lines highlighted in green are additions, while lines in red have been deleted.
+
+For more information on Git/GitHub, check out these useful resources:
+Blischak, JD, Davenport, ER, and Wilson, G, "A quick introduction to version control with Git and GitHub," PLoS Computational Biology, 2016. DOI:<a href=http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668>journal.pcbi.1004668</a>.
+
+GitHub Guides: https://guides.github.com/
