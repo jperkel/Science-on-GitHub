@@ -11,3 +11,5 @@ Nextstrain.org,https://github.com/nextstrain,http://nextstrain.org/zika,Real-tim
 Cello,https://github.com/CIDARLAB/cello,http://www.cellocad.org/,Software that automates the design of DNA circuits for living cells
 OpenWorm,https://github.com/openworm/OpenWorm,http://openworm.org,A whole-organism computational model of C. elegans
 Marco Canteri,https://github.com/kante95/,,Data and analysis of various electronic experiments and some notes on mathematical methods for physics
+Taxonlookup,https://github.com/traitecoevo/taxonlookup,,A versioned taxonomic lookup table for land plants
+Traitecoevo,http://traitecoevo.github.io/,,"A collection of datasets, packages, and reproducible analyses about trait-based ecology & evolution"
